@@ -13,7 +13,7 @@
 
 Here are general guidelines to create asset packs for Flipper Zero:
 
-1. **Gather your assets:** Create or obtain chicken-themed animations, icons, and any additional files you want to include. Let your creativity fly!
+1. **Gather your assets:** Create or obtain chicken-themed animations, icons, and any additional files you want to include.
 2. **Understand file structure:** Research the required folder structure and naming conventions for asset packs. This might vary depending on the firmware.
 3. **Follow firmware guidelines:** Refer to documentation for your specific firmware for specific instructions and requirements.
 4. **Test thoroughly:** Once you've created your asset pack, test it on your Flipper Zero to ensure compatibility and functionality.
@@ -37,6 +37,6 @@ If you're a developer or designer, feel free to contribute to Chicken OS! Share 
 
 ## Contact
 
-For any questions, feedback, or support, please reach out to us:
+For any questions, feedback, or support, please reach out to me at :
 
-**Contact information coming soon!**
+**lawrence.shadowcroft@proton.me**
