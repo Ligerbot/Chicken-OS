@@ -3,10 +3,10 @@ Version: 1
 
 Width: 128
 Height: 50
-Passive frames: 2
-Active frames: 2
+Passive frames: 0
+Active frames: 1 2 3
 Frames order: 0 1 2 3
-Active cycles: 2
+Active cycles: 0
 Frame rate: 2
 Duration: 360
 Active cooldown: 3
