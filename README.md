@@ -29,7 +29,13 @@ Here are general guidelines to create asset packs for Flipper Zero:
 
 *Provide clear instructions on how to install and use your asset pack.*
 
-**Instructions coming soon!**
+**1**Open the QFlipper application.![Qflipper](qflipper.png)
+**2**Open the file explorer![QFlipper file explorer](file.png)
+**3**Navigate to the /asset_packs/ directory.
+**4**Then, download this project as a zip file, unzip it, and drag and
+drop it into the folder.
+**5**On the flipper, go to the Momentum/Xtreme app and then go to Interface,
+then click on Graphics. Then press the right arrow until you see Chicken_OS
 
 ## Contribute
 
