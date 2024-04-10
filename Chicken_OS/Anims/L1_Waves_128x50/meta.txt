@@ -1,0 +1,41 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 50
+Passive frames: 2
+Active frames: 4
+Frames order: 0 1 2 3 2 3
+Active cycles: 2
+Frame rate: 2
+Duration: 360
+Active cooldown: 5
+
+Bubble slots: 3
+
+Slot: 0
+X: 1
+Y: 17
+Text: My name is\nDwayne The Bock\nJohnson.
+AlignH: Right
+AlignV: Bottom
+StartFrame: 3
+EndFrame: 9
+
+Slot: 1
+X: 1
+Y: 17
+Text: I like eating \nworms and coffee
+AlignH: Right
+AlignV: Center
+StartFrame: 3
+EndFrame: 9
+
+Slot: 2
+X: 1
+Y: 25
+Text: *&^%*^% the \nFCC
+AlignH: Right
+AlignV: Bottom
+StartFrame: 3
+EndFrame: 5
